@@ -10,7 +10,7 @@ langs_dict = GoogleTranslator().get_supported_languages(as_dict=True)
 
 def main():
     st.image("Photo.jpg")
-    st.title(" PragyanAI - VVIET Workshop: Audio Hub")
+    st.title("vikas b g")
     
     audio_bytes = audio_recorder(text="Click to record", neutral_color="#6aa36f")
     
